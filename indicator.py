@@ -1,0 +1,2 @@
+#!/bin/bash
+export CLAUDE_CODE_MAX_OUTPUT_TOKENS=100000
